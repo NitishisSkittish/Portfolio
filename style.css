@@ -1,0 +1,52 @@
+h1{
+    text-align:center;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    color:whitesmoke;
+    font-size:200px;
+    border: 1px solid whitesmoke;
+    margin:auto;
+    padding:10px;
+}
+
+#all{
+    background-color: slategray; 
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size:20px;
+    border: 1px solid whitesmoke;
+    font-weight: bold;
+    color:whitesmoke
+}
+
+p{
+    font-size:25px;
+}
+
+#me{
+    border:5px solid whitesmoke;
+    padding:10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#aboutme{
+    color:whitesmoke;
+    font-size:37px;
+    padding:10px;
+}
+
+#aboutme1{
+    color:whitesmoke;
+    border: 5px solid whitesmoke;
+    padding:10px;
+    margin-bottom: 20px;
+}
+#hr{
+    background-color: whitesmoke;
+    height:2px;
+}
+
+#home{
+    font-size:46px;
+}
+
+
